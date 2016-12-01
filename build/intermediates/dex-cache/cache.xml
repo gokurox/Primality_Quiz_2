@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_2de699b09f76da3a10eefc791491e38d294092a8\classes.dex" />
+    </item>
+    <item
+        jar="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_6ed1c88cce8a24091ca7f5eed2823282c9ac5c9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gursimran Singh\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_f46bc141001fd6c0fd424dcf01e7820b0f8e287a\classes.dex" />
+    </item>
+    <item
+        jar="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_483169b2479a6542ad749aec2d6603bc27b291e3\classes.dex" />
+    </item>
+    <item
+        jar="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b1e50558b8164d041903d7dba9fbb3997fff93c9">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e5c23cdefe842ad150f020de2c3fcc83dea54c7b\classes.dex" />
+    </item>
+    <item
+        jar="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_eaa1d836e0129b33b022d7ef92682b05105c2b1f\classes.dex" />
+    </item>
+    <item
+        jar="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_aecaafa57315efcc06a3b8fb1d3089176613d751\classes.dex" />
+    </item>
+    <item
+        jar="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_4f6a4e1b384bae62472de630fb9c58966f440c15\classes.dex" />
+    </item>
+    <item
+        jar="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8fcd0a933ba8e041155d7c08af56d89a16987cd4">
+        <dex dex="D:\IIITD_SemV\MC\Android\Primality_Quiz_(MC_Assign2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b740c8a231a02c019d08c1e51c6ee46ffd94fcb0\classes.dex" />
+    </item>
+
+</items>

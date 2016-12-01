@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="main_question_CardView_size">300dp</dimen>
+    <dimen name="main_question_TextView_size">170dp</dimen>
+    <dimen name="main_cardview_inbetween_margin">16dp</dimen>
+    <dimen name="main_cardview_inner_padding">8dp</dimen>
+    <dimen name="main_score_textSize">20sp</dimen>
+
+    <dimen name="hint_cardview_inbetween_margin">16dp</dimen>
+    <dimen name="hint_cardview_inner_padding">8dp</dimen>
+</resources>

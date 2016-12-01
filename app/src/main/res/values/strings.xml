@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Primality Quiz</string>
+
+    <string name="main_scoreLabel">Score:</string>
+
+    <string name="main_yesText">YES</string>
+    <string name="main_noText">NO</string>
+    <string name="main_hintText">HINT</string>
+    <string name="main_cheatText">CHEAT</string>
+    <string name="main_nextText">NEXT</string>
+
+    <string name="hint_generateHintText">GENERATE HINT</string>
+    <string name="cheat_generateCheatText">GENERATE CHEAT</string>
+</resources>
